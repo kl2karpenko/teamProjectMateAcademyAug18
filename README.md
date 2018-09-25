@@ -1,8 +1,7 @@
 # teamProjectMateAcademyAug18
 Team project to use gitflow in projects
 
-Cверстать шаблон по ссылке командой 
-
+Cверстать шаблон по ссылке командой https://drive.google.com/drive/folders/16cYkjJ2e3ADVLjtM-_xNm6YBQSxMt79C?usp=sharing
 
 ### Требования к шаблону:
 1. Сверстать макет pixel perfect - для проверки будут использоваться инструменты для наложения макета
